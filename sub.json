@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal, highly detailed scene showing two distinct groups of objects arranged separately, where in each group a smaller object consistently outperforms a larger one (visually implied through motion, flow, or dominance), but when both groups merge into a single unified composition, the larger objects dominate overall. No text, no numbers, no symbols, no charts. Use visual metaphor: flowing streams of particles, color gradients, or directional motion to imply dominance. Left side: Group A — small blue shapes outperform larger red shapes. Right side: Group B — small green shapes outperform larger yellow shapes. Center merge: combined scene where large shapes dominate overall flow. Style: cinematic lighting, abstract realism, impossible geometry, subtle contradiction.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Two groups show smaller elements dominating locally, but when merged, larger elements dominate globally, creating a contradiction between local and global truth."
+}
